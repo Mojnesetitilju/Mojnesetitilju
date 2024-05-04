@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack course on Udemi
 - 💞️ I’m looking to collaborate on pretty much anything that can help me grow as a developer
-- 📫 How to reach me : likaburin@gmail.com
+- 📫 How to reach me : lukaburin@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
